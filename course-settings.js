@@ -1,57 +1,57 @@
 const courseSettings = {
   language: "fi",
-  name: "Ohjelmoinnin perusteet ja jatkokurssi 2025",
-  siteUrl: "https://ohjelmointi-25.mooc.fi",
-  githubUrl: "https://github.com/rage/ohjelmointi-25",
+  name: "Ohjelmoinnin perusteet ja jatkokurssi 2026",
+  siteUrl: "https://ohjelmointi-26.mooc.fi",
+  githubUrl: "https://github.com/rage/ohjelmointi-26",
   subtitle: "Johdatus ohjelmointiin Python-kielellä",
-  slug: "ohjelmointi-2025",
+  slug: "ohjelmointi-2026",
   organizationName: "MOOC",
-  tmcCourse: "ohjelmointi-2025",
-  quizzesId: "0aa44e16-90ae-41f8-be9c-4f08a29bc8cf",
+  tmcCourse: "ohjelmointi-2026",
+  quizzesId: "60f292e4-8a27-4230-b281-cd9713bb43be",
   tmcOrganization: "mooc",
   bannerPath: "banner.svg",
   showExerciseDescriptionWhenNotLoggedIn: true,
   courseVariants: [
-    {
-      tmcOrganization: "centria",
-      tmcCourse: "centria-python-2025"
-    },
-    {
-      tmcOrganization: "graninlukio",
-      tmcCourse: "grani-tvt4-python-2025"
-    },
-    {
-      tmcOrganization: "kinnulanlukio",
-      tmcCourse: "kinnulanlukio-python-ohjelmointi-2025"
-    },
-    {
-      tmcOrganization: "laurea",
-      tmcCourse: "python-2025"
-    },
-    {
-      tmcOrganization: "laurea",
-      tmcCourse: "laurea-python-henttonen-2025"
-    },
-    {
-      tmcOrganization: "laurea",
-      tmcCourse: "python-2025-laurea-stenberg"
-    },
-    {
-      tmcOrganization: "nissniku",
-      tmcCourse: "python-2025"
-    },
-    {
-      tmcOrganization: "uwasa",
-      tmcCourse: "python-2025"
-    },
-    {
-      tmcOrganization: "e10129575",
-      tmcCourse: "ython-perusteet2025"
-    },
-    {
-      tmcOrganization: "e10129575",
-      tmcCourse: "python-2025"
-    },
+    // {
+    //   tmcOrganization: "centria",
+    //   tmcCourse: "centria-python-2025"
+    // },
+    // {
+    //   tmcOrganization: "graninlukio",
+    //   tmcCourse: "grani-tvt4-python-2025"
+    // },
+    // {
+    //   tmcOrganization: "kinnulanlukio",
+    //   tmcCourse: "kinnulanlukio-python-ohjelmointi-2025"
+    // },
+    // {
+    //   tmcOrganization: "laurea",
+    //   tmcCourse: "python-2025"
+    // },
+    // {
+    //   tmcOrganization: "laurea",
+    //   tmcCourse: "laurea-python-henttonen-2025"
+    // },
+    // {
+    //   tmcOrganization: "laurea",
+    //   tmcCourse: "python-2025-laurea-stenberg"
+    // },
+    // {
+    //   tmcOrganization: "nissniku",
+    //   tmcCourse: "python-2025"
+    // },
+    // {
+    //   tmcOrganization: "uwasa",
+    //   tmcCourse: "python-2025"
+    // },
+    // {
+    //   tmcOrganization: "e10129575",
+    //   tmcCourse: "ython-perusteet2025"
+    // },
+    // {
+    //   tmcOrganization: "e10129575",
+    //   tmcCourse: "python-2025"
+    // },
     // {
     //   tmcOrganization: "laurea",
     //   tmcCourse: "python-2024-stenberg"
