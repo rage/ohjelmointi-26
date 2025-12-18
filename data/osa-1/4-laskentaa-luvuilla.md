@@ -446,4 +446,4 @@ Vihje2: jos et keksi miten tehtävä ratkeaa, älä huolestu suotta vaan tutustu
 
 Kertauskysely tämän osan asioihin liittyen:
 
-<quiz id="2baebecb-52cd-5557-ab93-424ccfc0b45b"></quiz>
+<quiz id="985791c0-1e91-5e45-b01e-806d71da7cc9"></quiz>

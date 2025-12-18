@@ -590,8 +590,8 @@ Ongelmaan pyritään saamaan parempi ratkaisu lähipäivinä. -->
 </programming-exercise>
 
 
-<quiz id="8a5216cf-a77f-5262-a526-713e191c7774"></quiz>
+<quiz id="544221f1-b8ad-57ed-8521-d87ddd3a89b5"></quiz>
 
 Vastaa lopuksi osion loppukyselyyn:
 
-<quiz id="f4013a29-28ad-5415-858d-5b7c8fb31cea"></quiz>
+<quiz id="b4c5215f-1208-5c54-be6a-37ea7cdc8b1e"></quiz>

@@ -497,5 +497,5 @@ virheellinen syöte
 
 Vastaa lopuksi osion loppukyselyyn:
 
-<quiz id="f811a18c-fa2b-576f-838c-b5209ebf2736"></quiz>
+<quiz id="47ae99b6-ff62-5562-bacf-7efea787ff74"></quiz>
 

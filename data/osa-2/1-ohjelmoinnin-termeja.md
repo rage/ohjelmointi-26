@@ -479,4 +479,4 @@ Desimaaliosa: 0.34
 
 </in-browser-programming-exercise>
 
-<quiz id="0d4f87df-83bf-5ca4-94f7-44feac57918b"></quiz>
+<quiz id="eaa1a0d3-8b97-52ec-889c-f6ceec7afa0c"></quiz>

@@ -554,5 +554,5 @@ Huomaa, että yllä oleva koodi ja testit olettavat, että luokassa on attribuut
 
 Vastaa lopuksi osion loppukyselyyn:
 
-<quiz id="68f98ee0-bda1-53e1-8751-01a8354e3ade"></quiz>
+<quiz id="e0846c85-a154-5f47-b1a6-31b7f7582858"></quiz>
 

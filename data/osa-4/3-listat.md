@@ -686,4 +686,4 @@ vastaus 4
 
 Pythonissa on paljon muitakin mahdollisuuksia listan käsittelyyn. Voit tutustua niihin Pythonin [dokumentaation](https://docs.python.org/3/tutorial/datastructures.html) kautta.
 
-<quiz id="8fc1d9dc-0966-554a-8c8f-82b20a3d1b00"></quiz>
+<quiz id="6829efeb-9bdf-5907-b020-c212eadbea82"></quiz>
