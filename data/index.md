@@ -16,12 +16,9 @@ Tarkemmat arvosteluperusteet löytyvät [täältä](/arvostelu-ja-kokeet)
 
 Osat 1-7 muodostavat Ohjelmoinnin perusteet ja osat 8-14 muodostavan Ohjelmoinnin jatkokurssin.
 
-**Huom!** Kurssin suorittamalla **ei** voi enää hakea suoraan sisäänpääsyä laitokselle (ns. MOOC-väylä) niin kuin aikaisempina vuosina. Lisätietoa laitoksen hakuväylistä löydät [opintopolku.fi-sivustolta](https://opintopolku.fi/app/#!/haku/tietojenk%C3%A4sittelytiede?page=1&facetFilters=teachingLangCode_ffm:FI&tab=los).
-
-
 ## Arviointiasteikko muuttuu vuonna 2026
 
-Ohjelmoinnin perusteiden arviointiasteikko muuttuu vuoden 2026 MOOCissa. Hyväksytty / hylätty -asteikon sijasta kurssi arvioidaan numeerisella asteikolla ykkösestä viitoseen. Muutos ei koske tämän MOOCin tammikuussa 2026 pidettävää tenttiä.
+Ohjelmoinnin perusteiden arviointiasteikko muuttuu viime vuodesta. Hyväksytty / hylätty -asteikon sijasta kurssi arvioidaan numeerisella asteikolla ykkösestä viitoseen. Muutos ei koske viime vuoden MOOCin tammikuussa 2026 pidettävää tenttiä.
 
 ## 1 + 1 pisteen lisäsuoritukset
 
@@ -38,29 +35,28 @@ Käytä ensisijaisesti viestintävälineenä Discordia. Kurssin opettajiin voit 
 
 ## Aikataulu
 
-Kurssi on auki vuoden 2025 loppuun asti. Tehtäviä voi tehdä omaan tahtiin siihen asti.
+Kurssi on auki vuoden 2026 loppuun asti. Tehtäviä voi tehdä omaan tahtiin siihen asti.
 
 ## Luennot
 
-Kurssilla järjestetään liveluennot syksyllä 2025. Jatkokurssin ensimmäinen luento on maanantaina 27.10. kello 14.15. [Voit seurata luentoja Zoomissa.](https://helsinki.zoom.us/j/66256524249?pwd=PbBEi0Nb1vfqTApiWQNbmQ2oSDFy2y.1)
-Luentotallenteet päivitetään alla olevaan taulukkoon. <i>Huomaa poikkeusaikataulu viikolla 45: maanantaina 3.11. ei ole luentoa, luento on sen sijaan keskiviikkona 5.11. klo 10.15. </i>
+Kurssilla järjestetään liveluennot seuraavaksi syksyllä 2026. Syksyn 2025 luentotallenteet löytyvät alta. Huomaathan, että päivämääriä tai muita käytännön järjestelyitä koskevat seikat luennoilla  eivät välttämättä pidä paikkaansa tämän vuoden kurssia ajatellen.
 
 ## Luentotallenteet
 
 
 Osa    | Luentotallenne | Kalvot
 -------|----------------|-------
-Osa 1 (2025) | [Luentotallenne, 08.09.2025](https://youtu.be/ULna74mhFis) | [Luentokalvot](https://docs.google.com/presentation/d/1izQSQK65tkHRdKrymB5E4B_9gVpvIpXUh5ixGY_b0MU/edit?usp=sharing)
-Osa 2 (2025) | [Luentotallenne, 15.09.2025](https://youtu.be/PfXraApB4Qo) | [Luentokalvot](https://docs.google.com/presentation/d/1xIsXwoWBdxkpkC9Df5FDhBUmrGhXmOOtB-g5bCe5yLE/edit?usp=sharing)
-Osa 3 (2025) | [Luentotallenne, 22.09.2025](https://youtu.be/UEU9T7_ijSI) | [Luentokalvot](https://docs.google.com/presentation/d/1Dj9yGT-ZR8isCi6PwiZz8-7iPvvKcvBIHnCNWu-2lLE/edit?usp=sharing)
-Osa 4 (2025) | [Luentotallenne, 29.09.2025](https://youtu.be/vTYI4yBzJG4) | [Luentokalvot](https://docs.google.com/presentation/d/1WSs1Ln4rYWzGwy2BuGapLrno2Q0RCXMUa1sTkcBzvnY/edit?usp=sharing)
-Osa 5 (2025) | [Luentotallenne, 06.10.2025](https://youtu.be/GAlIgz6ziCA) | [Luentokalvot](https://docs.google.com/presentation/d/1XW2zeSrxUATKbkJTTeLNm0IiqYb3y6ZhFmK67hZ3lRU/edit?usp=sharing)
-Osa 6 (2025) | [Luentotallenne, 13.10.2025](https://youtu.be/IJI-VX8x1GM) | [Luentokalvot](https://docs.google.com/presentation/d/1fBHTrYfCoph5vOt80P_Jf8kYWep2CmT-HrGSChN7ajM/edit?usp=sharing)
-Osa 7 (2025) | [Luentotallenne, 20.10.2025](https://youtu.be/Hj8Zbj-Hgv4) | [Luentokalvot](https://docs.google.com/presentation/d/1PzteClT9HwdZibOp2jYl6NScOYVkPKPJcVwOtUKIpSQ/edit?usp=sharing)
-Osa 8 (2025) | [Luentotallenne, 27.10.2025](https://youtu.be/RtQ3E9FbWaU) | [Luentokalvot](https://docs.google.com/presentation/d/1Dl1z2fukWvKgxklyfJoJQcp253F2ODzLg9Nwsdyku-o/edit?usp=sharing)
-Osa 9 (2025) | [Luentotallenne, 05.11.2025](https://youtu.be/1HwXwB4_ce4) | [Luentokalvot](https://docs.google.com/presentation/d/11PNQ2l7s9vq-tMm3WxiOe7xyzcccFfosxanHcqZgdKM/edit?usp=sharing)
-Osa 10 (2025) | [Luentotallenne, 10.11.2025](https://youtu.be/MOFAlNnm49o) | [Luentokalvot](https://docs.google.com/presentation/d/1jTCp5pJKAM1wlKgN4eeLQmsIS0oKcZdVX8w9lDizZdk/edit?usp=sharing)
-Osa 11 (2025) | [Luentotallenne, 17.11.2025](https://youtu.be/JT0dsjKlITo) | [Luentokalvot](https://docs.google.com/presentation/d/1pTMxaNg4J63St1xJ11K76fGwlfWYhMggIk8o-m7hGR0/edit?usp=sharing)
-Osa 12 (2025) | [Luentotallenne, 24.11.2025](https://youtu.be/rCcBzQ9KaWs) | [Luentokalvot](https://docs.google.com/presentation/d/13zTyTv7sO0dT_d4EfoV9MvCfG-oCi1Zz0a7MgKww6Hw/edit?usp=sharing)
-Osa 13 (2025) | [Luentotallenne, 02.12.2024](https://youtu.be/2tibs-teA0o) | [Luentokalvot](https://docs.google.com/presentation/d/1h9D1jP9m6LLYTuGK6XdiAfFx8i1ARnHDe8Sm8jv_nJ8/edit?usp=sharing)
+Osa 1 (2025) | [Luentotallenne, 08.09.2025](https://youtu.be/ULna74mhFis) 
+Osa 2 (2025) | [Luentotallenne, 15.09.2025](https://youtu.be/PfXraApB4Qo) 
+Osa 3 (2025) | [Luentotallenne, 22.09.2025](https://youtu.be/UEU9T7_ijSI) 
+Osa 4 (2025) | [Luentotallenne, 29.09.2025](https://youtu.be/vTYI4yBzJG4) 
+Osa 5 (2025) | [Luentotallenne, 06.10.2025](https://youtu.be/GAlIgz6ziCA) 
+Osa 6 (2025) | [Luentotallenne, 13.10.2025](https://youtu.be/IJI-VX8x1GM) 
+Osa 7 (2025) | [Luentotallenne, 20.10.2025](https://youtu.be/Hj8Zbj-Hgv4) 
+Osa 8 (2025) | [Luentotallenne, 27.10.2025](https://youtu.be/RtQ3E9FbWaU) 
+Osa 9 (2025) | [Luentotallenne, 05.11.2025](https://youtu.be/1HwXwB4_ce4) 
+Osa 10 (2025) | [Luentotallenne, 10.11.2025](https://youtu.be/MOFAlNnm49o)
+Osa 11 (2025) | [Luentotallenne, 17.11.2025](https://youtu.be/JT0dsjKlITo)
+Osa 12 (2025) | [Luentotallenne, 24.11.2025](https://youtu.be/rCcBzQ9KaWs)
+Osa 13 (2025) | [Luentotallenne, 02.12.2024](https://youtu.be/2tibs-teA0o)
 Osa 14 | Ei luentoa, projektityö
