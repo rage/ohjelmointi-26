@@ -8,27 +8,27 @@ sidebar_priority: 4000
 
 Kurssit suoritetaan ratkomalla tehtäviä ja osallistumalla lopuksi kokeeseen.
 
-### Ohjelmoinnin perusteiden koepäivät 2025
+### Ohjelmoinnin perusteiden koepäivät 2026
 
-* ~~Lauantai 08.03.2025~~
-* ~~Lauantai 03.05.2025~~
-* ~~Lauantai 07.06.2025~~
-* ~~Lauantai 19.07.2025~~
-* ~~Lauantai 06.09.2025~~
-* ~~Tiistai 28.10.2025 (HUOM! Päivä muuttunut!)~~
-* ~~Lauantai 22.11.2025~~
-* Lauantai 17.01.2026
+* Lauantai 07.03.2026
+* Lauantai 02.05.2026
+* Lauantai 06.06.2026
+* Lauantai 18.07.2026
+* Lauantai 05.09.2026
+* Tiistai 27.10.2026
+* Lauantai 5.12.2026
+* Lauantai 16.1.2027
 
-### Ohjelmoinnin jatkokurssin koepäivät 2025
+### Ohjelmoinnin jatkokurssin koepäivät 2026
 
-* ~~Lauantai 15.03.2025~~
-* ~~Lauantai 10.05.2025~~
-* ~~Lauantai 14.06.2025~~
-* ~~Lauantai 16.08.2025~~
-* ~~Tiistai 21.10.2025~~
-* Tiistai 16.12.2025
-* Lauantai 24.01.2026
-* Lauantai 28.02.2026
+* Lauantai 14.03.2026
+* Lauantai 09.05.2026
+* Lauantai 13.06.2026
+* Lauantai 15.08.2026
+* Tiistai 20.10.2026
+* Lauantai 15.12.2026
+* Lauantai 23.01.2027
+* Lauantai 27.02.2027
 
 
 ## Tenttiin osallistuminen
@@ -42,9 +42,9 @@ Kurssilla saa osallistua halutessaan useampaan kokeeseen. Opintorekisteriin jä�
 ## Tentin järjestelyistä
 
 * Tenttiin ei tarvitse ilmoittautua etukäteen.
-* Tentin voi suorittaa koepäivänä **klo 10:00-22:00** välisenä aikana.
+* Tentin voi suorittaa koepäivänä **klo 10:00 - 22:00** välisenä aikana.
 * Tentti päättyy viimeistään klo 22:00. Jos haluat käyttää tenttiin maksimiajan, **aloita se viimeistään klo 18:00**.
-* Aikaa tentin tekemiseen on **neljä tuntia**. Jos sinulla on erikseen annettu tenttiin lisäaikaa, aikaa on viisi tuntia.
+* Aikaa tentin tekemiseen on **neljä tuntia**. Jos sinulla on erikseen annettu tenttiin lisäaikaa, aikaa on viisi tuntia. Lisäajasta tulee toimittaa todistus kurssin henkilökunnalle ennen tentin alkua
 * Tehtävät palautetaan samalla tavalla kuin kurssitehtävät.
 
 Tarkemmat ohjeet julkaistaan näillä sivuilla ennen koepäivää.
@@ -61,9 +61,7 @@ Jokaisen osan kaikista tehtävistä saa tehtäväpisteitä. Löydät osan kaikki
 
 ### Arvosteluasteikko
 
-*Peruskurssista* saa hyväksytyn arvosanan tekemällä vähintään 50 % kaikista MOOC-tehtävistä ja suorittamalla tentin hyväksytysti. Lisäksi jokaisesta yksittäisestä tehtäväkierroksesta 1 - 7 pitää saada vähintään 25 % pisteistä. Tentin läpipääsyyn vaaditaan vähintään puolet tenttipisteistä.
-
-*Jatkokurssi* arvostellaan seuraavalla asteikolla:
+Kurssit arvioidaan seuraavalla asteikolla. Perus- ja jatkokurssi tentitään ja arvioidaan erikseen.
 
 <table>
     <thead>
@@ -102,8 +100,12 @@ Jokaisen osan kaikista tehtävistä saa tehtäväpisteitä. Löydät osan kaikki
 
 Arvostelu perustuu sekä tehtyihin tehtäviin (50 % kokonaispisteistä) että kokeeseen (50 % kokonaispisteistä). Tämä tarkoittaa, että arvosteluasteikon kokonaispisteet saadaan laskemalla tämän sivun pistevisualisaation (sininen pallo oikeassa alakulmassa) kurssipisteet ja saamasi koepisteet yhteen.
 
-Kurssin läpipääsyyn vaaditaan vähintään 25% jokaisen osan ohjelmointitehtävien pisteistä.
+Kurssin läpipääsyyn vaaditaan lisäksi vähintään 25% jokaisen osan ohjelmointitehtävien pisteistä.
 
 #### Koeleikkuri
 
 Kokeesta tulee saada vähintään puolet pisteistä kurssin läpäisemiseksi.
+
+#### Vilppiepäilyt
+
+Jos koetehtävien tarkastuksessa joko koevastausten tai MOOC-vastausten perusteella on syytä epäillä vilppiä, kokeen tekijälle lähetetään pyyntö vastineesta. Mikäli vastine on hyväksyttävä, järjestetään lyhyt etäkuulustelu, jossa kokeen tekijä selittää ratkaisunsa opettajan osoittamiin tehtäviin. Jos tämän perustella on syytä olettaa, että ratkaisut on tehty itse, saa kurssista arvosanan normaalisti, eikä epäilystä jää merkintää mihinkään. Jos opiskelija ei pysty antamaan hyväksyttävää vastinetta tai pysty hyväksyttävästi selittämään ratkaisujaan, tentti- ja kurssisuoritus hylätään ja asia viedään eteenpäin käsiteltäväksi Helsingin yliopiston tenttivilppisääntöjen mukaisesti.
