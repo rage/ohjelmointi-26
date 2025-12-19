@@ -5,14 +5,14 @@ hidden: false
 information_page: true
 ---
 
-### Alkusyksyn ohjausajat
-
-**Ohjausaikoja järjestetään lisää syyskuun alusta lähtien**
-
-2025 kurssilla järjestetään ohjausta sekä Kumpulan kampuksella että Discordissa. Kampuksella ohjaus järjestetään Exactumin BK107-luokassa. Ohjaus järjestetään alla olevan aikataulun mukaisesti
+### Kevää ohjausajat
 
 
-| Aika / Päivä | MA | TI | KE | TO | PE |
+
+Kurssilla järjestetään ohjausta sekä Kumpulan kampuksella että Discordissa. Kampuksella ohjaus järjestetään Exactumin BK107-luokassa. Ohjauspäivät ilmoitetaan tällä sivulla myöhemmin.
+
+
+<!--| Aika / Päivä | MA | TI | KE | TO | PE |
 |-----|----|----|----|----|----|
 | 10-11 | - | X | - | - | X |
 | 11-12 | - | X | - | - | X |
@@ -21,11 +21,9 @@ information_page: true
 | 14-15 | - | - | - | - | - |
 | 15-16 | - | - | X | - | - |
 | 16-17 | - | X | X | - | - |
-| 17-18 | - | X | - | - | - |
+| 17-18 | - | X | - | - | - |-->
 
 Pajaohjauksen aikana saattaa olla apua tarjolla myös Discordissa, jos ohjaajilla on vuorollaan aikaa seurata Discordia.
-
-*Aikataulu voi muuttua kurssin edetessä.*
 
 #### Discord
 
