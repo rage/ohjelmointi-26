@@ -7,7 +7,7 @@ banner: true
 sidebar_priority: 5000
 ---
 
-**Kurssi alkaa 13.1.2025!**
+**Kurssi alkaa 13.1.2026!**
 
 Nämä ovat Ohjelmoinnin perusteiden (TKT10002, 5 op) ja Ohjelmoinnin jatkokurssin (TKT10003, 5 op) kurssisivut.
 
