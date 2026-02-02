@@ -9,8 +9,7 @@ information_page: true
 
 
 
-Kurssilla järjestetään ohjausta sekä Kumpulan kampuksella että Discordissa. Kampuksella ohjaus järjestetään Exactumin BK107-luokassa. Ohjauspäivät ilmoitetaan tällä sivulla myöhemmin.
-
+Kurssilla järjestetään ohjausta sekä Kumpulan kampuksella että Discordissa. Kumpulan kampuksella ohjaus tapahtuu Exactumin salissa BK107 keskiviikkoisin klo 12–16 sekä perjantaisin klo 12–16.
 
 <!--| Aika / Päivä | MA | TI | KE | TO | PE |
 |-----|----|----|----|----|----|
@@ -23,7 +22,7 @@ Kurssilla järjestetään ohjausta sekä Kumpulan kampuksella että Discordissa.
 | 16-17 | - | X | X | - | - |
 | 17-18 | - | X | - | - | - |-->
 
-Pajaohjauksen aikana saattaa olla apua tarjolla myös Discordissa, jos ohjaajilla on vuorollaan aikaa seurata Discordia.
+Pajaohjauksen aikana saattaa olla apua tarjolla myös Discordissa, jos ohjaajilla on vuorollaan aikaa seurata Discordia. Discordissa apua voi tietysti kuitenkin kysyä ihan koska vaan.
 
 #### Discord
 
