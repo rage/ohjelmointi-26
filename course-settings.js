@@ -12,14 +12,6 @@ const courseSettings = {
   bannerPath: "banner.svg",
   showExerciseDescriptionWhenNotLoggedIn: true,
   courseVariants: [
-    {
-      tmcOrganization: "laurea",
-      tmcCourse: "python-english-2026-grotenfelt",
-    },
-    {
-      tmcOrganization: "laurea",
-      tmcCourse: "python-english-2026",
-    },
     // {
     //   tmcOrganization: "centria",
     //   tmcCourse: "centria-python-2025"
