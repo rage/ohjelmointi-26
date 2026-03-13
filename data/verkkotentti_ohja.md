@@ -1,9 +1,9 @@
 ---
 path: "/verkkotentti-ohja"
-title: "Ohjelmoinnin jatkokurssin verkkotentti 16.12."
+title: "Ohjelmoinnin jatkokurssin verkkotentti 14.03."
 information_page: true
 sidebar_priority: 2800
-hide_in_sidebar: true
+hide_in_sidebar: false
 ---
 
 <!--# Ohjelmoinnin jatkokurssi-->
@@ -42,7 +42,7 @@ hide_in_sidebar: true
 2. Valitse TMC-valikosta `My courses`-näkymä.
 3. Paina `Add new course`-nappulaa.
 4. Valitse organisaatioksi `Helsingin yliopisto`.
-5. Valitse kurssiksi `OHJA Python, syksy 2025, Verkkotentti 2`.
+5. Valitse kurssiksi `OHJA Python, kevät 2026, Verkkotentti 1`.
 6. Lataa tehtäväpohjat.
 7. Testaa tehtävien lähettämistä.
 8. Jos saat lähetettyä tehtävät palvelimelle niin olet valmis tekemään tentin, muutoin ole yhteydessä ohjaajaan.
@@ -55,8 +55,8 @@ hide_in_sidebar: true
 
 * Tenttikysymykset ilmestyvät courses.mooc.fi sivulle tenttipäivänä klo 10:00.
 * Tentti-sivuille kirjaudutaan käyttäen normaaleja mooc.fi-tunnuksia.
-* Tenttikysymykset löytyvät osoitteesta: <a href="https://courses.mooc.fi/org/uh-cs/exams/76906c93-65a0-4369-a37b-8e17404ce07f">https://courses.mooc.fi/org/uh-cs/exams/76906c93-65a0-4369-a37b-8e17404ce07f</a>
-* Jos olet oikeutettu lisäaikaan, tenttikysymykset saat auki tästä: <a href="https://courses.mooc.fi/org/uh-cs/exams/0a58436a-1d47-4d78-a5fc-468a7ceb3d22">https://courses.mooc.fi/org/uh-cs/exams/0a58436a-1d47-4d78-a5fc-468a7ceb3d22</a>
+* Tenttikysymykset löytyvät osoitteesta: <a href="https://courses.mooc.fi/org/uh-cs/exams/d7f12f0c-551d-4df9-a87a-8aa041f04e5a">https://courses.mooc.fi/org/uh-cs/exams/d7f12f0c-551d-4df9-a87a-8aa041f04e5a</a>
+* Jos olet oikeutettu lisäaikaan, tenttikysymykset saat auki tästä: <a href="https://courses.mooc.fi/org/uh-cs/exams/5c5afd98-fb9a-45f8-9675-e0403ab46b93">https://courses.mooc.fi/org/uh-cs/exams/5c5afd98-fb9a-45f8-9675-e0403ab46b93</a>
 * Tenttiaika alkaa siitä hetkestä kun painat `Aloita tentti!` -painiketta.
 
 #### Tehtävien palauttaminen
@@ -68,7 +68,7 @@ hide_in_sidebar: true
 #### Tentin lopetus
 
 * Ennen lopettamista varmista vielä, että olet muistanut palauttaa tehtävät serverille.
-* Voit tarkistaa  lähettämiesi tehtävien saapumisen palvelimelle **kirjautumalla sivulle** [https://tmc.mooc.fi/org/hy/courses/1637](https://tmc.mooc.fi/org/hy/courses/1637). Tehtävän palautus on saapunut palvelimelle, jos näet tehtävän tehtäväpohjan nimen ja kellonajan, jolloin palautit tehtävän.
+* Voit tarkistaa  lähettämiesi tehtävien saapumisen palvelimelle **kirjautumalla sivulle** [https://tmc.mooc.fi/org/hy/courses/1676](https://tmc.mooc.fi/org/hy/courses/1676). Tehtävän palautus on saapunut palvelimelle, jos näet tehtävän tehtäväpohjan nimen ja kellonajan, jolloin palautit tehtävän.
 * Voit sulkea tenttitehtävä-sivun kun olet valmis. Muita toimenpiteitä ei vaadita.
 
 #### Tentin tulokset
