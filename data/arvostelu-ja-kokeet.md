@@ -21,7 +21,7 @@ Kurssit suoritetaan ratkomalla tehtäviä ja osallistumalla lopuksi kokeeseen.
 
 ### Ohjelmoinnin jatkokurssin koepäivät 2026
 
-* Lauantai 14.03.2026
+* ~~Lauantai 14.03.2026~~
 * Lauantai 09.05.2026
 * Lauantai 13.06.2026
 * Lauantai 15.08.2026
