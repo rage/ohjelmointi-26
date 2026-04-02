@@ -11,7 +11,7 @@ const Credits = () => (
       <Helmet title="Kiitokset ja materiaalista" />
       <h1>Kiitokset ja materiaalista</h1>
       <p>
-        Kurssin on tehnyt Helsingin yliopiston{" "}
+        Kurssin tekijät: Erkki Kaila, Antti Laaksonen ja Matti Luukkainen sekä Helsingin yliopiston{" "}
         <a
           href="https://www.helsinki.fi/en/researchgroups/data-driven-education"
           target="_blank"
