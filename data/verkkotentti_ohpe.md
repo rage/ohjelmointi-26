@@ -31,7 +31,7 @@ hide_in_sidebar: false
 
 #### Tenttipäivänä
 
-* Teknisten ongelmien varalta ohjaaja päivystää tenttipäivänä **klo 10:00-14:00** [Discordissa](https://study.cs.helsinki.fi/discord/join/ohjelmoinnin_mooc) `ohjelmoinnin_mooc_general` kanavalla.
+<!--* Teknisten ongelmien varalta ohjaaja päivystää tenttipäivänä **klo 10:00-14:00** [Discordissa](https://study.cs.helsinki.fi/discord/join/ohjelmoinnin_mooc) `ohjelmoinnin_mooc_general` kanavalla.-->
 * Tenttipäivänä **klo 14:00-22:00** keskustelu kurssin kanavilla on kielletty. Kurssin Discord on lukittu ja kanaville ei voi lähettää viestejä.
 
 #### Tehtäväpohjien hakeminen
