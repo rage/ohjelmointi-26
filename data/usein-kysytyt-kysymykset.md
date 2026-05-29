@@ -56,3 +56,7 @@ Ohjaa Kela tälle sivulle:
 Ohjelmoinnin perusteet on kaikille avoin ja ilmainen verkkokurssi. Kurssin käymistä voi verrata kirjan lainaamiseen kirjastosta. Kirjastosta lainattava kirja saattaa liittyä johonkin yliopisto-opintoihin liittyvään kurssiin. Aivan samalla tavalla kuin kirjastosta lainattava kirja, verkkokurssimme on luettavissa huvin ja itsensä sivistämisen vuoksi tai yliopisto-opintojen edistämiseksi.
 
 Ohjelmoinnin perusteet vastaa Helsingin yliopiston 5 opintopisteen kurssia. Kurssin suorittajat eivät kuitenkaan automaattisesti ole Helsingin yliopiston opiskelijoita, emmekä pakota ketään suorittamaan kurssia opintopisteisiin johtavassa muodossa. Kurssin suorittamisesta voi kuitenkin halutessaan saada opintopisteitä. Kurssille osallistuminen ei oikeuta opintotukeen.
+
+### Tarvitsen lisäikaa tentin tekemiseen
+
+Tenttiin on mahdollista saada lisäaikaa 1 tunti tietyissä tapauksissa. Löydät lisätietoja yksilölllisistä järjestelyistä [Helsingin yliopiston ohjeesta](https://studies.helsinki.fi/ohjeet/artikkeli/yksilollisilla-jarjestelyilla-lisatukea-opiskeluun).
