@@ -12,6 +12,10 @@ const courseSettings = {
   bannerPath: "banner.svg",
   showExerciseDescriptionWhenNotLoggedIn: true,
   courseVariants: [
+    {
+      tmcOrganization: "jedu",
+      tmcCourse: "python-2026-jedu"
+    }
     // {
     //   tmcOrganization: "centria",
     //   tmcCourse: "centria-python-2025"
