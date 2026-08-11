@@ -13,7 +13,7 @@ Kurssit suoritetaan ratkomalla tehtäviä ja osallistumalla lopuksi kokeeseen.
 * ~~Lauantai 07.03.2026~~
 * ~~Lauantai 02.05.2026~~
 * ~~Lauantai 06.06.2026~~
-* Lauantai 18.07.2026
+* ~~Lauantai 18.07.2026~~
 * Lauantai 05.09.2026
 * Tiistai 27.10.2026
 * Lauantai 5.12.2026
