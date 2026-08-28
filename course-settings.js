@@ -15,7 +15,11 @@ const courseSettings = {
     {
       tmcOrganization: "jedu",
       tmcCourse: "python-2026-jedu"
-    }
+    },
+    {
+      tmcOrganization: "uwasa",
+      tmcCourse: "python-2026"
+    },
     // {
     //   tmcOrganization: "centria",
     //   tmcCourse: "centria-python-2025"
