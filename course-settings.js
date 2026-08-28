@@ -20,6 +20,10 @@ const courseSettings = {
       tmcOrganization: "uwasa",
       tmcCourse: "python-2026"
     },
+    {
+      tmcOrganization: "laurea",
+      tmcCourse: "python-2026-ahonen"
+    },
     // {
     //   tmcOrganization: "centria",
     //   tmcCourse: "centria-python-2025"
