@@ -39,7 +39,9 @@ Kurssi on auki vuoden 2026 loppuun asti. Tehtäviä voi tehdä omaan tahtiin sii
 
 ## Luennot
 
-Kurssilla järjestetään liveluennot seuraavaksi syksyllä 2026. Syksyn 2025 luentotallenteet löytyvät alta. Huomaathan, että päivämääriä tai muita käytännön järjestelyitä koskevat seikat luennoilla  eivät välttämättä pidä paikkaansa tämän vuoden kurssia ajatellen.
+Kurssin etäluennot järjestetään maanantaisin 7.9. alkaen kello 14.15. [Voit seurata luentoja Zoomin välityksellä](https://helsinki.zoom.us/j/61122227388?pwd=0laazqIAxh0WgslHdplp73kEVOT42a.1).
+
+Syksyn 2025 luentotallenteet löytyvät alta. Huomaathan, että päivämääriä tai muita käytännön järjestelyitä koskevat seikat luennoilla  eivät välttämättä pidä paikkaansa tämän vuoden kurssia ajatellen.
 
 ## Luentotallenteet
 
