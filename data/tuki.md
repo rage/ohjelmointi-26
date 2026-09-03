@@ -9,7 +9,12 @@ information_page: true
 
 
 
-Kurssilla järjestetään ohjausta sekä Kumpulan kampuksella että Discordissa. Kumpulan kampuksella ohjaus tapahtuu Exactumin salissa BK107 keskiviikkoisin klo 12–16 sekä perjantaisin klo 12–16.
+Kurssilla järjestetään ohjausta sekä Kumpulan kampuksella että Discordissa. Kumpulan kampuksella ohjaus tapahtuu Exactumin salissa BK107 seuraavina aikoina syksyllä 2026:
+
+* Maanantaisin klo 16.00 - 19.00
+* Tiistaisin klo 13.00 - 16.00
+* Torstaisin 16.00 - 19.00
+* Perjantaisin 13.00 - 16.00
 
 <!--| Aika / Päivä | MA | TI | KE | TO | PE |
 |-----|----|----|----|----|----|
