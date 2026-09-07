@@ -48,7 +48,7 @@ Syksyn 2025 luentotallenteet löytyvät alta. Huomaathan, että päivämääriä
 
 Osa    | Luentotallenne | Kalvot
 -------|----------------|-------
-Osa 1 (2025) | [Luentotallenne, 08.09.2025](https://youtu.be/ULna74mhFis) 
+Osa 1 (2026) | [Luentotallenne, 07.09.2026](https://youtu.be/bkGlcQvsSmo) | [Kalvot 1](https://docs.google.com/presentation/d/1My-ItL6ZloEohSnp2tn3PQQMVn97J82WSpWL478dfCM/edit?usp=sharing)
 Osa 2 (2025) | [Luentotallenne, 15.09.2025](https://youtu.be/PfXraApB4Qo) 
 Osa 3 (2025) | [Luentotallenne, 22.09.2025](https://youtu.be/UEU9T7_ijSI) 
 Osa 4 (2025) | [Luentotallenne, 29.09.2025](https://youtu.be/vTYI4yBzJG4) 
