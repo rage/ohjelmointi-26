@@ -14,9 +14,32 @@ Tämän osion jälkeen
 
 </text-box>
 
-Aikaisemmissa osissa on käytetty esimerkiksi funktioita `len`, `print` ja `input` eri tarkoituksiin. Nämä ovat Pythonin sisäänrakennettuja funktioita, mutta voimme myös määritellä omia funktioita.
+## Parsons Code Lab
+
+Osana Helsingin yliopistossa tehtävää tietojenkäsittelytieteen opetuksen tutkimusta kehitetään parhaillaan uutta ohjelmoinnin harjoitteluympäristöä, Parsons Code Lab.
+
+Sovelluksessa pääsee ratkaisemaan ohjelmointitehtäviä [Parsonin pulmien muodossa](https://en.wikipedia.org/wiki/Parsons_problem); tehtävänä on järjestää ja täydentää koodilohkoja toimivaksi ohjelmaksi.
+
+Alla olevasta linkistä pääset harjoitustehtäväkokonaisuuteen, jonka avulla voit kerrata monia kurssilla tähän mennessä käsiteltyjä keskeisiä ohjelmoinnin aiheita, kuten silmukoita, ehtolauseita ja merkkijonojen käsittelyä. Tehtävät ovat vapaaehtoista lisäharjoitusmateriaalia, eivätkä ne vaikuta kurssin arvosteluun millään tavalla. Kurssin opettaja voi kuitenkin tarkastella tehtävien ratkaisemiseen liittyviä tilastotietoja ohjelmiston opettajanäkymän kautta.
+
+[Tästä tehtäviin](https://parsonscodelab.web.helsinki.fi/laurasini/set/ohjelmoinnin-perusteet-2026-listehtvt)
+
+Huomaa, että ohjelmisto on vielä aktiivisessa kehitysvaiheessa, joten siinä saattaa esiintyä puutteita tai virheitä.
+
+Annathan palautetta mahdollisista ongelmista sekä käyttökokemuksistasi!
+Alla olevaan anonyymiin kyselyyn vastaaminen vie vain noin minuutin, mutta palautteestasi on merkittävä apu ohjelmiston jatkokehityksessä.
+
+[Kyselyyn](https://elomake.helsinki.fi/lomakkeet/QgDyx/lomake.html)
+
+Tehtävien käyttötietoja sekä palautekyselyn vastauksia voidaan hyödyntää tutkimuksessa täysin anonymisoituina.
+
+Kiitos osallistumisestasi ja avustasi tutkimuksessa!
+
+
 
 ## Funktion määrittely
+
+Aikaisemmissa osissa on käytetty esimerkiksi funktioita `len`, `print` ja `input` eri tarkoituksiin. Nämä ovat Pythonin sisäänrakennettuja funktioita, mutta voimme myös määritellä omia funktioita.
 
 Oma funktio määritellään avainsanalla `def` (lyhenne sanasta define). Funktiolle annetaan jokin _nimi_, jonka jälkeen on alku- ja loppusulku. Tämän jälkeen annetaan lohkossa funktioon kuuluva koodi.
 
