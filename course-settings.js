@@ -17,6 +17,10 @@ const courseSettings = {
       tmcCourse: "python-2026-jedu"
     },
     {
+      tmcOrganization: "e10129575",
+      tmcCourse: "python-2026"
+    },
+    {
       tmcOrganization: "uwasa",
       tmcCourse: "python-2026"
     },
