@@ -52,7 +52,7 @@ Osa 3 (2026) | [Luentotallenne, 21.09.2026](https://youtu.be/QqjbKV-tPOY) | [Kal
 Osa 4 (2026) | [Luentotallenne, 28.09.2026](https://youtu.be/dCFTBtGMJQQ) | [Kalvot 4](https://docs.google.com/presentation/d/1ts2QPYx7pi137OCzL0Nq-2ZFO6qBJNUXDPOHE2pCkvU/edit?usp=sharing) 
 Osa 5 (2026) | [Luentotallenne, 05.10.2026](https://youtu.be/dW5nNuVrDb4) | [Kalvot 5](https://docs.google.com/presentation/d/1aQo5oOq4JBBenxiRoLPaEVi6JsWImFlpVjgj6TlMlqY/edit?usp=sharing) 
 Osa 6 (2026) | [Luentotallenne, 12.10.2026](https://youtu.be/IDOXoD_VyvU) | [Kalvot 6](https://docs.google.com/presentation/d/1jMX4CMWR8dueZM1KaDssRdYWVF1QpAGChqlSp0nqnq0/edit?usp=sharing)
-Osa 7 (2025) | [Luentotallenne, 20.10.2025](https://youtu.be/Hj8Zbj-Hgv4) 
+Osa 7 (2026) | [Luentotallenne, 19.10.2026](https://youtu.be/JqcfhNxa8uI) | [Kalvot 7](https://docs.google.com/presentation/d/1o2z7Vpc0I9xkd7sQyhzFRco7rDfs9Nwxbe9NgzFGt7c/edit?usp=sharing) 
 Osa 8 (2025) | [Luentotallenne, 27.10.2025](https://youtu.be/RtQ3E9FbWaU) 
 Osa 9 (2025) | [Luentotallenne, 05.11.2025](https://youtu.be/1HwXwB4_ce4) 
 Osa 10 (2025) | [Luentotallenne, 10.11.2025](https://youtu.be/MOFAlNnm49o)
