@@ -323,7 +323,7 @@ class Tiedostonkasittelija:
 
 Konstruktorin parametrina annetaan tiedoston nimi. Metodi `lataa(self)` lukee tiedoston, ja pilkkoo sen rivit sanakirjaksi, missä avain on nimi ja arvona ovat nimeen liittyvät numerot.
 
-Metodi käyttää erästä Pythonin kätevää ominaisuutta: listasta on mahdollista ottaa ensin yksittäisiä alkioita erikseen nimettyinä muuttujina, sekä loput alkiot uutena listana, kuten seuraavasta esimerkistä käy ilmi. [Luvusta 6](osa-6/1-tiedostojen-lukeminen#csv-tiedoston-lukeminen) muistamme että merkkijonojen metodi `split` tuottaa nimenomaan listan.
+Metodi käyttää erästä Pythonin kätevää ominaisuutta: listasta on mahdollista ottaa ensin yksittäisiä alkioita erikseen nimettyinä muuttujina, sekä loput alkiot uutena listana, kuten seuraavasta esimerkistä käy ilmi. [Luvusta 6](/osa-6/1-tiedostojen-lukeminen#csv-tiedoston-lukeminen) muistamme että merkkijonojen metodi `split` tuottaa nimenomaan listan.
 
 ```python
 lista = [1, 2, 3, 4, 5]

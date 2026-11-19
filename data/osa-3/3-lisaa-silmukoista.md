@@ -184,7 +184,7 @@ Anna luku: **6**
 1
 Anna luku: **-1**
 
-</Sample-output>
+</sample-output>
 
 Huomaa, että kun silmukoita on sisäkkäin, komennot `break` ja `continue` vaikuttavat vain sisimpään silmukkaan. Esimerkiksi voisimme toteuttaa äskeisen ohjelman vähän eri tavalla myös näin:
 

@@ -164,8 +164,7 @@ Harrastukset tulee luetella samassa järjestyksessä kuin ne on annettu JSON-tie
 
 ## Netissä olevan tiedoston hakeminen
 
-Pythonin standardikirjaston funktion [urllib.request.urlopen](
-https://docs.python.org/3/library/urllib.request.html#urllib.request.urlopen) avulla on helppo hakea internetistä sisältöä ohjelmista käsin.
+Pythonin standardikirjaston funktion [urllib.request.urlopen](https://docs.python.org/3/library/urllib.request.html#urllib.request.urlopen) avulla on helppo hakea internetistä sisältöä ohjelmista käsin.
 
 Esim. seuraava koodi tulostaa Helsingin yliopiston etusivun sisällön:
 
