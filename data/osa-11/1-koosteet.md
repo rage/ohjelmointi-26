@@ -486,4 +486,4 @@ print(oikea.osumat_paikoillaan(oma_rivi))
 
 </sample-output>
 
-</programming-exercises>
+</programming-exercise>

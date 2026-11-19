@@ -329,4 +329,4 @@ print(ListaApuri.tuplia(luvut))
 
 </sample-output>
 
-</progarmming-exercise>
+</programming-exercise>

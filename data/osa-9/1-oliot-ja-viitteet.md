@@ -117,6 +117,8 @@ Koesuoritus (suorittaja: Pirjo, pisteet: 19)
 Koesuoritus (suorittaja: Pauli, pisteet: 15)
 Koesuoritus (suorittaja: Petriina, pisteet: 17)
 
+</sample-output>
+
 </programming-exercise>
 
 Listaan ei tarkkaan ottaen tallenneta olioita vaan _viittauksia olioihin_. Niinpä sama olio voi esiintyä listassa useaan kertaan ja samaan olioon voidaan viitata useaan kertaan listassa ja sen ulkopuolella. Esimerkiksi näin:

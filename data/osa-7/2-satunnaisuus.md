@@ -272,8 +272,6 @@ Käytössä on kolme noppaa:
 - Nopassa B on numerot 2, 2, 2, 5, 5, 5
 - Nopassa C on numerot 1, 4, 4, 4, 4, 4
 
-</pre>
-
 Tee funktio `heita(noppa: str)`, joka heittää parametrinsa kertomaa noppaa. Esimerkki:
 
 ```python

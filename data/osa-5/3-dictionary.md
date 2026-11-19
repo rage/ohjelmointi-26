@@ -414,6 +414,8 @@ nimi: **pekka**
 komento (1 hae, 2 lisää, 3 lopeta): **3**
 lopetetaan...
 
+</sample-output>
+
 </programming-exercise>
 
 ## Avaimien poistaminen sanakirjasta
